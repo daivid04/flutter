@@ -1,0 +1,7 @@
+bin: Es donde se pone el main
+lib: Es donde están las funciones 
+test: un archivo que hace verificaciones o pruebas de forma automática para ver si funciona 
+analysis_options.yaml: Define reglas para poder escribir codigo
+CHANGELOG.md: Es la version de nuestra aplicación
+pubspec.lock: Es como fue creado mi aplicación y como fue agregado los paquetes uno por uno
+pubspec.yaml: información de la aplicación y especifica hasta donde funciona 

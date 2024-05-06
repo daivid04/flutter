@@ -1,0 +1,27 @@
+
+dart_tool es un pub, es una manera de dar seguimiento a nuestros paquetes, está las configuraciones de los paquetes
+
+.ideas son configuraciones para trabajar con intellij IDEA es para otro editor
+
+android: es una carpeta macro, donde esta la aplicación de android, 
+podemos hacer configuraciones para nuestra aplicación corra en android
+
+ios: Es un proyecto de Xcode donde va a crear todo para que corra la aplicación en android
+
+lib:El código fuente personalizado por nosotros(la aplicación)
+
+linux, macos: es lo mismo que lo anterior
+
+test: Es para ser un test en automático de nuestra aplicación
+
+web, windows: Es lo mismo que macos
+
+.metadata es un archivo que le da seguimiento a nuestro proyecto, Utilizado por flutter tool
+
+analysis_options.yaml configura el analysis, es para decir como va a analizar estrictamente nuestro código de dart y flutter
+
+hello_world_app.iml es utilizado por los proyectos intellij IDEA
+
+pubspec.lock da el seguimiento a las versiones que usamos en el proyecto contra las aplicaciones que se acaban de lanzar.  
+
+pubspec.yaml Es un archivo de configuración, es estricto porque un espacio hace una diferencia

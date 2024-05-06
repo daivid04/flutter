@@ -1,0 +1,581 @@
+{
+    "opiniones": [
+      {
+        "productoId": 1,
+        "opinion": "Este producto es excelente. Lo recomendaría a cualquiera. Porque es lo mejor de calidad que hay en un celular de esta gama además que es aifon que es lo mejor para un buen estatus como el que yo tengo",
+        "calificacion": 5.0,
+        "usuario": "Usuario1",
+        "fecha": "2024-04-10",
+        "categoria": "Electrónicos"
+      },
+      {
+        "productoId": 1,
+        "opinion": "No quedé satisfecho con este producto. No cumplió mis expectativas.",
+        "calificacion": 2.5,
+        "usuario": "Usuario2",
+        "fecha": "2024-04-09",
+        "categoria": "Electrónicos"
+      },
+      {
+        "productoId": 2,
+        "opinion": "Me encanta este producto. Lo uso todos los días.",
+        "calificacion": 4.0,
+        "usuario": "Usuario3",
+        "fecha": "2024-04-08",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 3,
+        "opinion": "La calidad de este producto es bastante baja. No lo recomendaría.",
+        "calificacion": 1.5,
+        "usuario": "Usuario4",
+        "fecha": "2024-04-07",
+        "categoria": "Ropa"
+      },
+      {
+        "productoId": 4,
+        "opinion": "Este producto es excelente. Lo recomendaría a cualquiera.",
+        "calificacion": 5.0,
+        "usuario": "Usuario1",
+        "fecha": "2024-04-10",
+        "categoria": "Electrónicos"
+      },
+      {
+        "productoId": 4,
+        "opinion": "No quedé satisfecho con este producto. No cumplió mis expectativas.",
+        "calificacion": 2.5,
+        "usuario": "Usuario2",
+        "fecha": "2024-04-09",
+        "categoria": "Electrónicos"
+      },
+      {
+        "productoId": 5,
+        "opinion": "Me encanta este producto. Lo uso todos los días.",
+        "calificacion": 4.0,
+        "usuario": "Usuario3",
+        "fecha": "2024-04-08",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 5,
+        "opinion": "No es lo que esperaba. No lo recomendaría.",
+        "calificacion": 2.0,
+        "usuario": "Usuario4",
+        "fecha": "2024-04-07",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 7,
+        "opinion": "Me encanta este producto. Es justo lo que estaba buscando.",
+        "calificacion": 4.5,
+        "usuario": "Usuario7",
+        "fecha": "2024-04-10",
+        "categoria": "Electrodomésticos"
+      },
+      {
+        "productoId": 7,
+        "opinion": "No estoy satisfecho con este producto. No funciona como esperaba.",
+        "calificacion": 2.0,
+        "usuario": "Usuario8",
+        "fecha": "2024-04-09",
+        "categoria": "Electrodomésticos"
+      },
+      {
+        "productoId": 8,
+        "opinion": "Este producto es increíble. Lo recomiendo totalmente.",
+        "calificacion": 5.0,
+        "usuario": "Usuario9",
+        "fecha": "2024-04-08",
+        "categoria": "Juguetes"
+      },
+      {
+        "productoId": 8,
+        "opinion": "No me gustó este producto. No es seguro para los niños.",
+        "calificacion": 2.5,
+        "usuario": "Usuario10",
+        "fecha": "2024-04-07",
+        "categoria": "Juguetes"
+      },
+      {
+        "productoId": 11,
+        "opinion": "Excelente producto. Cumple con todas mis expectativas.",
+        "calificacion": 4.8,
+        "usuario": "Usuario11",
+        "fecha": "2024-04-06",
+        "categoria": "Electrónicos"
+      },
+      {
+        "productoId": 11,
+        "opinion": "No estoy contento con este producto. No funciona correctamente.",
+        "calificacion": 2.3,
+        "usuario": "Usuario12",
+        "fecha": "2024-04-05",
+        "categoria": "Electrónicos"
+      },
+      {
+        "productoId": 12,
+        "opinion": "Muy buen producto. Lo recomiendo a todos.",
+        "calificacion": 4.5,
+        "usuario": "Usuario13",
+        "fecha": "2024-04-04",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 12,
+        "opinion": "Decepcionante. No cumple con lo prometido en la descripción.",
+        "calificacion": 2.0,
+        "usuario": "Usuario14",
+        "fecha": "2024-04-03",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 13,
+        "opinion": "Me encanta este producto. Lo uso todos los días.",
+        "calificacion": 4.7,
+        "usuario": "Usuario15",
+        "fecha": "2024-04-02",
+        "categoria": "Moda"
+      },
+      {
+        "productoId": 13,
+        "opinion": "No lo recomiendo. La calidad es muy baja.",
+        "calificacion": 2.2,
+        "usuario": "Usuario16",
+        "fecha": "2024-04-01",
+        "categoria": "Moda"
+      },
+      {
+        "productoId": 14,
+        "opinion": "Increíble calidad. Definitivamente vale la pena el precio.",
+        "calificacion": 4.9,
+        "usuario": "Usuario17",
+        "fecha": "2024-04-10",
+        "categoria": "Electrónicos"
+      },
+      {
+        "productoId": 14,
+        "opinion": "No estoy satisfecho. El producto llegó dañado.",
+        "calificacion": 2.4,
+        "usuario": "Usuario18",
+        "fecha": "2024-04-09",
+        "categoria": "Electrónicos"
+      },
+      {
+        "productoId": 15,
+        "opinion": "Impresionante. Superó mis expectativas.",
+        "calificacion": 4.6,
+        "usuario": "Usuario19",
+        "fecha": "2024-04-08",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 15,
+        "opinion": "No lo recomendaría. La calidad es muy baja para el precio.",
+        "calificacion": 2.1,
+        "usuario": "Usuario20",
+        "fecha": "2024-04-07",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 16,
+        "opinion": "Producto excelente. Lo compraría de nuevo sin dudarlo.",
+        "calificacion": 4.8,
+        "usuario": "Usuario21",
+        "fecha": "2024-04-06",
+        "categoria": "Moda"
+      },
+      {
+        "productoId": 16,
+        "opinion": "No es lo que esperaba. La talla es incorrecta.",
+        "calificacion": 2.3,
+        "usuario": "Usuario22",
+        "fecha": "2024-04-05",
+        "categoria": "Moda"
+      },
+      {
+        "productoId": 17,
+        "opinion": "¡Me encanta este producto! Es muy útil en mi día a día.",
+        "calificacion": 4.7,
+        "usuario": "Usuario23",
+        "fecha": "2024-04-10",
+        "categoria": "Electrodomésticos"
+      },
+      {
+        "productoId": 17,
+        "opinion": "No lo recomendaría. Se estropeó después de un par de usos.",
+        "calificacion": 2.0,
+        "usuario": "Usuario24",
+        "fecha": "2024-04-09",
+        "categoria": "Electrodomésticos"
+      },
+      {
+        "productoId": 18,
+        "opinion": "Increíble calidad. Cumple con lo prometido.",
+        "calificacion": 4.9,
+        "usuario": "Usuario25",
+        "fecha": "2024-04-08",
+        "categoria": "Deportes"
+      },
+      {
+        "productoId": 18,
+        "opinion": "Me decepcionó. No era lo que esperaba en absoluto.",
+        "calificacion": 2.5,
+        "usuario": "Usuario26",
+        "fecha": "2024-04-07",
+        "categoria": "Deportes"
+      },
+      {
+        "productoId": 19,
+        "opinion": "¡Excelente! Superó mis expectativas.",
+        "calificacion": 4.6,
+        "usuario": "Usuario27",
+        "fecha": "2024-04-06",
+        "categoria": "Juguetes"
+      },
+      {
+        "productoId": 19,
+        "opinion": "No estoy contento. El juguete llegó roto.",
+        "calificacion": 2.2,
+        "usuario": "Usuario28",
+        "fecha": "2024-04-05",
+        "categoria": "Juguetes"
+      },
+      {
+        "productoId": 20,
+        "opinion": "Lo compré y no me arrepiento. Funciona perfectamente.",
+        "calificacion": 4.8,
+        "usuario": "Usuario29",
+        "fecha": "2024-04-10",
+        "categoria": "Electrónicos"
+      },
+      {
+        "productoId": 20,
+        "opinion": "Me llevé una gran decepción. No era lo que esperaba en absoluto.",
+        "calificacion": 2.3,
+        "usuario": "Usuario30",
+        "fecha": "2024-04-09",
+        "categoria": "Electrónicos"
+      },
+      {
+        "productoId": 21,
+        "opinion": "Buena relación calidad-precio. Lo recomendaría.",
+        "calificacion": 4.5,
+        "usuario": "Usuario31",
+        "fecha": "2024-04-08",
+        "categoria": "Ropa"
+      },
+      {
+        "productoId": 21,
+        "opinion": "No me gustó. La tela era demasiado fina.",
+        "calificacion": 2.7,
+        "usuario": "Usuario32",
+        "fecha": "2024-04-07",
+        "categoria": "Ropa"
+      },
+      {
+        "productoId": 22,
+        "opinion": "¡Fantástico producto! Funciona a la perfección.",
+        "calificacion": 4.9,
+        "usuario": "Usuario33",
+        "fecha": "2024-04-06",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 22,
+        "opinion": "No estoy satisfecho. Se rompió después de poco tiempo de uso.",
+        "calificacion": 2.1,
+        "usuario": "Usuario34",
+        "fecha": "2024-04-05",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 23,
+        "opinion": "Excelente producto. Superó mis expectativas.",
+        "calificacion": 4.7,
+        "usuario": "Usuario35",
+        "fecha": "2024-04-04",
+        "categoria": "Electrodomésticos"
+      },
+      {
+        "productoId": 23,
+        "opinion": "No lo recomendaría. Se descompuso en poco tiempo.",
+        "calificacion": 2.4,
+        "usuario": "Usuario36",
+        "fecha": "2024-04-03",
+        "categoria": "Electrodomésticos"
+      },
+      {
+        "productoId": 24,
+        "opinion": "Gran calidad y diseño. Muy satisfecho con la compra.",
+        "calificacion": 4.9,
+        "usuario": "Usuario37",
+        "fecha": "2024-04-02",
+        "categoria": "Moda"
+      },
+      {
+        "productoId": 24,
+        "opinion": "Me decepcionó. La talla no correspondía a lo esperado.",
+        "calificacion": 2.6,
+        "usuario": "Usuario38",
+        "fecha": "2024-04-01",
+        "categoria": "Moda"
+      },
+      {
+        "productoId": 25,
+        "opinion": "Muy útil en la cocina. Lo uso todos los días.",
+        "calificacion": 4.5,
+        "usuario": "Usuario39",
+        "fecha": "2024-03-31",
+        "categoria": "Cocina"
+      },
+      {
+        "productoId": 25,
+        "opinion": "No era lo que esperaba. No funciona correctamente.",
+        "calificacion": 2.2,
+        "usuario": "Usuario40",
+        "fecha": "2024-03-30",
+        "categoria": "Cocina"
+      },
+      {
+        "productoId": 26,
+        "opinion": "Estoy muy contento con mi compra. Funciona perfectamente.",
+        "calificacion": 4.8,
+        "usuario": "Usuario41",
+        "fecha": "2024-03-29",
+        "categoria": "Electrónica"
+      },
+      {
+        "productoId": 26,
+        "opinion": "No recomiendo este producto. Se averió después de unos días de uso.",
+        "calificacion": 2.0,
+        "usuario": "Usuario42",
+        "fecha": "2024-03-28",
+        "categoria": "Electrónica"
+      },
+      {
+        "productoId": 27,
+        "opinion": "Excelente calidad. Lo uso todos los días en mi rutina de ejercicio.",
+        "calificacion": 4.9,
+        "usuario": "Usuario43",
+        "fecha": "2024-03-27",
+        "categoria": "Deportes"
+      },
+      {
+        "productoId": 27,
+        "opinion": "Me sentí decepcionado. No cumple con lo prometido en la descripción.",
+        "calificacion": 2.3,
+        "usuario": "Usuario44",
+        "fecha": "2024-03-26",
+        "categoria": "Deportes"
+      },
+      {
+        "productoId": 28,
+        "opinion": "Me encanta este producto. Lo recomiendo ampliamente.",
+        "calificacion": 4.7,
+        "usuario": "Usuario45",
+        "fecha": "2024-03-25",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 28,
+        "opinion": "No era lo que esperaba. No se adapta bien a mi hogar.",
+        "calificacion": 2.5,
+        "usuario": "Usuario46",
+        "fecha": "2024-03-24",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 29,
+        "opinion": "Producto de buena calidad. Funciona perfectamente.",
+        "calificacion": 4.5,
+        "usuario": "Usuario47",
+        "fecha": "2024-03-23",
+        "categoria": "Electrónica"
+      },
+      {
+        "productoId": 29,
+        "opinion": "Me decepcionó. No cumple con mis expectativas.",
+        "calificacion": 2.0,
+        "usuario": "Usuario48",
+        "fecha": "2024-03-22",
+        "categoria": "Electrónica"
+      },
+      {
+        "productoId": 30,
+        "opinion": "Muy satisfecho con mi compra. Excelente relación calidad-precio.",
+        "calificacion": 4.8,
+        "usuario": "Usuario49",
+        "fecha": "2024-03-21",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 30,
+        "opinion": "No lo recomiendo. Se estropeó demasiado rápido.",
+        "calificacion": 2.2,
+        "usuario": "Usuario50",
+        "fecha": "2024-03-20",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 31,
+        "opinion": "Fantástico producto. Cumple con todas mis expectativas.",
+        "calificacion": 4.9,
+        "usuario": "Usuario51",
+        "fecha": "2024-03-19",
+        "categoria": "Electrónica"
+      },
+      {
+        "productoId": 31,
+        "opinion": "Pésima calidad. Se rompió después de unos pocos días de uso.",
+        "calificacion": 1.8,
+        "usuario": "Usuario52",
+        "fecha": "2024-03-18",
+        "categoria": "Electrónica"
+      },
+      {
+        "productoId": 32,
+        "opinion": "Producto muy versátil. Lo uso todos los días sin problemas.",
+        "calificacion": 4.7,
+        "usuario": "Usuario53",
+        "fecha": "2024-03-17",
+        "categoria": "Electrónica"
+      },
+      {
+        "productoId": 32,
+        "opinion": "No lo recomiendo. Tuve muchos problemas desde el primer día.",
+        "calificacion": 2.3,
+        "usuario": "Usuario54",
+        "fecha": "2024-03-16",
+        "categoria": "Electrónica"
+      },
+      {
+        "productoId": 33,
+        "opinion": "Excelente compra. Lo volvería a adquirir sin dudarlo.",
+        "calificacion": 4.9,
+        "usuario": "Usuario55",
+        "fecha": "2024-03-15",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 33,
+        "opinion": "Me arrepiento de haberlo comprado. No es lo que esperaba.",
+        "calificacion": 2.1,
+        "usuario": "Usuario56",
+        "fecha": "2024-03-14",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 34,
+        "opinion": "Increíble producto. Muy útil en mi día a día.",
+        "calificacion": 4.8,
+        "usuario": "Usuario57",
+        "fecha": "2024-03-13",
+        "categoria": "Electrónica"
+      },
+      {
+        "productoId": 34,
+        "opinion": "Me defraudó. No funciona como se promociona.",
+        "calificacion": 2.4,
+        "usuario": "Usuario58",
+        "fecha": "2024-03-12",
+        "categoria": "Electrónica"
+      },
+      {
+        "productoId": 35,
+        "opinion": "Me encanta este producto. Ha superado mis expectativas.",
+        "calificacion": 4.9,
+        "usuario": "Usuario59",
+        "fecha": "2024-03-11",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 35,
+        "opinion": "No lo recomiendo. No cumple con lo prometido.",
+        "calificacion": 2.2,
+        "usuario": "Usuario60",
+        "fecha": "2024-03-10",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 36,
+        "opinion": "Producto excelente. Muy fácil de usar y muy útil.",
+        "calificacion": 4.7,
+        "usuario": "Usuario61",
+        "fecha": "2024-03-09",
+        "categoria": "Electrónica"
+      },
+      {
+        "productoId": 36,
+        "opinion": "Me arrepiento de haberlo comprado. No era lo que esperaba.",
+        "calificacion": 2.5,
+        "usuario": "Usuario62",
+        "fecha": "2024-03-08",
+        "categoria": "Electrónica"
+      },
+      {
+        "productoId": 37,
+        "opinion": "Estoy muy satisfecho con mi compra. Totalmente recomendado.",
+        "calificacion": 4.8,
+        "usuario": "Usuario63",
+        "fecha": "2024-03-07",
+        "categoria": "Moda"
+      },
+      {
+        "productoId": 37,
+        "opinion": "No era lo que esperaba. La calidad deja mucho que desear.",
+        "calificacion": 2.3,
+        "usuario": "Usuario64",
+        "fecha": "2024-03-06",
+        "categoria": "Moda"
+      },
+      {
+        "productoId": 38,
+        "opinion": "Me encanta este producto. Funciona de maravilla.",
+        "calificacion": 4.9,
+        "usuario": "Usuario65",
+        "fecha": "2024-03-05",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 38,
+        "opinion": "No estoy contento con este producto. Se rompió muy rápido.",
+        "calificacion": 2.1,
+        "usuario": "Usuario66",
+        "fecha": "2024-03-04",
+        "categoria": "Hogar"
+      },
+      {
+        "productoId": 39,
+        "opinion": "¡Excelente calidad! Lo recomiendo a todos mis amigos.",
+        "calificacion": 4.7,
+        "usuario": "Usuario67",
+        "fecha": "2024-03-03",
+        "categoria": "Electrónica"
+      },
+      {
+        "productoId": 39,
+        "opinion": "No cumple con lo prometido. Me decepcionó bastante.",
+        "calificacion": 2.4,
+        "usuario": "Usuario68",
+        "fecha": "2024-03-02",
+        "categoria": "Electrónica"
+      },
+      {
+        "productoId": 40,
+        "opinion": "Estoy muy feliz con mi compra. Ha sido una gran inversión.",
+        "calificacion": 4.8,
+        "usuario": "Usuario69",
+        "fecha": "2024-03-01",
+        "categoria": "Moda"
+      },
+      {
+        "productoId": 40,
+        "opinion": "No lo recomiendo. La talla no es la correcta y la tela es de mala calidad.",
+        "calificacion": 2.2,
+        "usuario": "Usuario70",
+        "fecha": "2024-02-29",
+        "categoria": "Moda"
+      }
+    ]
+  }
+  

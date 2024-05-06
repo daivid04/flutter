@@ -1,0 +1,85 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nombre": "Electrónica",
+      "icono": "phone_android",
+      "vendedores": [
+        {"nombre": "ElectroTech", "telefono": "+123456789"},
+        {"nombre": "GadgetsPlus", "telefono": "+987654321"}
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Ropa",
+      "icono": "shopping_bag",
+      "vendedores": [
+        {"nombre": "Moda Urbana", "telefono": "+246813579"},
+        {"nombre": "Elegancia Fashion", "telefono": "+987654321"}
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Hogar y Jardín",
+      "icono": "home",
+      "vendedores": [
+        {"nombre": "Decoraciones Hogar", "telefono": "+369258147"},
+        {"nombre": "Jardinería Express", "telefono": "+123456789"}
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Belleza y Cuidado Personal",
+      "icono": "face",
+      "vendedores": [
+        {"nombre": "Belleza Total", "telefono": "+852147369"},
+        {"nombre": "Cuidado Natural", "telefono": "+369852147"}
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Deportes y Aire Libre",
+      "icono": "sports_soccer",
+      "vendedores": [
+        {"nombre": "Deporte Extremo", "telefono": "+987456321"},
+        {"nombre": "Aire Libre Plus", "telefono": "+852369147"}
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Libros y Audiolibros",
+      "icono": "menu_book",
+      "vendedores": [
+        {"nombre": "Libros Fantásticos", "telefono": "+123987456"},
+        {"nombre": "Audiolibros Express", "telefono": "+369852147"}
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Juguetes y Juegos",
+      "icono": "toys",
+      "vendedores": [
+        {"nombre": "Juegos Divertidos", "telefono": "+987654321"},
+        {"nombre": "Juguetes Educativos", "telefono": "+369852147"}
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Automóviles y Motocicletas",
+      "icono": "directions_car",
+      "vendedores": [
+        {"nombre": "Autos Veloces", "telefono": "+123456789"},
+        {"nombre": "Motos Off-Road", "telefono": "+987654321"}
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Alimentos y Bebidas",
+      "icono": "local_dining",
+      "vendedores": [
+        {"nombre": "Sabor Gourmet", "telefono": "+369852147"},
+        {"nombre": "Bebidas Refrescantes", "telefono": "+123456789"}
+      ]
+    }
+  ]
+}

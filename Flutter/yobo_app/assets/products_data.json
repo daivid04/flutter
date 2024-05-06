@@ -1,0 +1,405 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "idCategory": 1,
+        "nombre": "iPhone 13 Pro",
+        "descripcion": "Teléfono inteligente de alta gama con pantalla Super Retina XDR y chip A15 Bionic.",
+        "precio": 1099.99,
+        "valoracion": 4.0,
+        "imagenes": "https://i.blogs.es/4c5b2b/ipihone-13-pro-00/1366_2000.jpeg",
+        "stock": 50
+      },
+      {
+        "id": 2,
+        "idCategory": 1,
+        "nombre": "Sony WH-1000XM4",
+        "descripcion": "Auriculares inalámbricos con cancelación de ruido líder en su clase y calidad de sonido excepcional.",
+        "precio": 349.99,
+        "valoracion": 4.0,
+        "imagenes": "https://pesonyb2c.vtexassets.com/arquivos/ids/209620-1600-auto?v=637323444689900000&width=1600&height=auto&aspect=true",
+        "stock": 30
+      },
+      {
+        "id": 3,
+        "idCategory": 1,
+        "nombre": "Garmin Fenix 7",
+        "descripcion": "Reloj deportivo de alta gama con GPS, pulsioxímetro y resistencia al agua hasta 100 metros.",
+        "precio": 799.99,
+        "valoracion": 3.2,
+        "imagenes": "https://dojiw2m9tvv09.cloudfront.net/23156/product/7s-pro-grafito-6-f9963.jpeg",
+        "stock": 20
+      },
+      {
+        "id": 4,
+        "idCategory": 1,
+        "nombre": "iPad Pro",
+        "descripcion": "Tableta profesional con pantalla Liquid Retina XDR, chip M1 y soporte para Apple Pencil de segunda generación.",
+        "precio": 1099.99,
+        "valoracion": 4.1,
+        "imagenes": "https://www.costco.com.mx/medias/sys_master/products/h68/h9a/132155784232990.jpg",
+        "stock": 25
+      },
+      {
+        "id": 5,
+        "idCategory": 1,
+        "nombre": "GoPro Hero 10 Black",
+        "descripcion": "Cámara de acción con calidad de video 5.3K60 y capacidad de captura de fotos de 23MP.",
+        "precio": 499.99,
+        "valoracion": 4.3,
+        "imagenes": "https://store.teslards.pe/wp-content/uploads/2022/03/5-HERO10-416x416-1.png",
+        "stock": 40
+      },
+      {
+        "id": 6,
+        "idCategory": 1,
+        "nombre": "Samsung Galaxy Note 20",
+        "descripcion": "Teléfono inteligente con pantalla Dynamic AMOLED de 6.7 pulgadas y S Pen mejorado.",
+        "precio": 999.99,
+        "valoracion": 2.7,
+        "imagenes": "https://www.lacuracao.pe/media/catalog/product/p/s/ps40937488_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+        "stock": 45
+      },
+      {
+        "id": 7,
+        "idCategory": 1,
+        "nombre": "Apple Watch Series 6",
+        "descripcion": "Smartwatch con monitorización avanzada de la salud, pantalla siempre activa y seguimiento del sueño.",
+        "precio": 399.99,
+        "valoracion": 3.8,
+        "imagenes": "https://rymportatiles.com.pe/cdn/shop/files/APPLE-WATCH-SERIE-6-A2291-1.jpg?v=1696021570&width=1214",
+        "stock": 30
+      },
+      {
+        "id": 8,
+        "idCategory": 1,
+        "nombre": "Sony PlayStation 5",
+        "descripcion": "Consola de videojuegos de próxima generación con gráficos de alta fidelidad y tiempos de carga ultrarrápidos.",
+        "precio": 499.99,
+        "valoracion": 3.9,
+        "imagenes": "https://www.importadoraperu.com/wp-content/uploads/2021/07/image-1.jpeg",
+        "stock": 20
+      },
+      {
+        "id": 9,
+        "idCategory": 1,
+        "nombre": "Canon EOS R5",
+        "descripcion": "Cámara mirrorless de fotograma completo con grabación de video 8K y estabilización de imagen de 5 ejes.",
+        "precio": 3899.99,
+        "valoracion": 2.6,
+        "imagenes": "https://marketfilmsperu.com/wp-content/uploads/Canon-EOS-R5-C-Cinema-Camera-600x600.jpg",
+        "stock": 15
+      },
+      {
+        "id": 10,
+        "idCategory": 1,
+        "nombre": "LG OLED C1",
+        "descripcion": "Televisor OLED con resolución 4K, Dolby Vision IQ y sonido Dolby Atmos.",
+        "precio": 1999.99,
+        "valoracion": 4.5,
+        "imagenes": "https://www.lg.com/content/dam/channel/wcms/cl/images/televisores/oled55c1pto_ewhp_escl_cl_c/450a.jpg",
+        "stock": 25
+      },
+      {
+        "id": 11,
+        "idCategory": 1,
+        "nombre": "Microsoft Xbox Series X",
+        "descripcion": "Consola de videojuegos de última generación con capacidad de 4K y hasta 120 fps.",
+        "precio": 499.99,
+        "valoracion": 4.7,
+        "imagenes": "https://soporteconsolascr.com/cdn/shop/products/1_610e1b11-684c-4c0a-8da9-1a5ed2e1d9c9_480x480.png?v=1628027387",
+        "stock": 30
+      },
+      {
+        "id": 12,
+        "idCategory": 1,
+        "nombre": "NVIDIA GeForce RTX 3080",
+        "descripcion": "Tarjeta gráfica para juegos de alta gama con arquitectura Ampere y trazado de rayos en tiempo real.",
+        "precio": 699.99,
+        "valoracion": 4.8,
+        "imagenes": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxxA1lVAvtqmhm-6u5Aff5dcjhWUU-GTDCpu0TUC64MQ&s",
+        "stock": 25
+      },
+      {
+        "id": 13,
+        "idCategory": 1,
+        "nombre": "Bose SoundLink Revolve+",
+        "descripcion": "Altavoz Bluetooth portátil con sonido envolvente de 360 grados y hasta 17 horas de reproducción.",
+        "precio": 299.99,
+        "valoracion": 4.6,
+        "imagenes": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/speakers/soundlink_revolve_plus_ii/product_silo_images/SoundLink_Revolve_Plus_II_Black_Ecom_1.png/jcr:content/renditions/cq5dam.web.320.320.png",
+        "stock": 20
+      },
+      {
+        "id": 14,
+        "idCategory": 1,
+        "nombre": "Dell XPS 15",
+        "descripcion": "Laptop premium con pantalla InfinityEdge de 15.6 pulgadas y procesador Intel Core i7.",
+        "precio": 1599.99,
+        "valoracion": 4.7,
+        "imagenes": "https://plazavea.vteximg.com.br/arquivos/ids/26021808-512-512/image-3fc0bb42af9c4a66930046f94aa24d0a.jpg",
+        "stock": 15
+      },
+      {
+        "id": 15,
+        "idCategory": 1,
+        "nombre": "Canon EOS-1D X Mark III",
+        "descripcion": "Cámara réflex digital profesional con capacidad de grabación de video 5.5K RAW y enfoque automático avanzado.",
+        "precio": 6499.99,
+        "valoracion": 4.9,
+        "imagenes": "https://home.ripley.com.pe/Attachment/WOP_5/2045279228951/2045279228951-1.jpg",
+        "stock": 10
+      },
+      {
+        "id": 16,
+        "idCategory": 1,
+        "nombre": "Sony WH-1000XM4",
+        "descripcion": "Auriculares inalámbricos con cancelación de ruido líder en la industria y sonido de alta resolución.",
+        "precio": 349.99,
+        "valoracion": 4.8,
+        "imagenes": "https://i5.walmartimages.com/asr/7ad5dfe1-0db7-4291-ac52-3fe63950e810.2974d54eeadd0ae5983bcf3d70d4b9ac.jpeg",
+        "stock": 30
+      },
+      {
+        "id": 17,
+        "idCategory": 1,
+        "nombre": "Google Pixel 5",
+        "descripcion": "Teléfono inteligente con cámara dual de 12.2 MP y batería de larga duración con carga rápida.",
+        "precio": 699.99,
+        "valoracion": 4.6,
+        "imagenes": "https://i.blogs.es/6af018/google-pixel-5-00/1366_2000.jpg",
+        "stock": 25
+      },
+      {
+        "id": 18,
+        "idCategory": 1,
+        "nombre": "Amazon Echo Dot (4th Gen)",
+        "descripcion": "Altavoz inteligente con Alexa integrada y diseño esférico para un sonido mejorado.",
+        "precio": 49.99,
+        "valoracion": 4.7,
+        "imagenes": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8kKuYZ2Ug8hcQhmrDbPs1E_pVvh01am4yXmLrCsAHcQ&s",
+        "stock": 20
+      },
+      {
+        "id": 19,
+        "idCategory": 1,
+        "nombre": "LG UltraGear 27GN950-B",
+        "descripcion": "Monitor gaming de 27 pulgadas con resolución 4K y frecuencia de actualización de 144Hz.",
+        "precio": 799.99,
+        "valoracion": 4.8,
+        "imagenes": "https://www.lg.com/content/dam/channel/wcms/pe/images/monitores/27gn950-b_awf_espr_pe_c/Basic_450.jpg",
+        "stock": 15
+      },
+      {
+        "id": 20,
+        "idCategory": 1,
+        "nombre": "GoPro HERO9 Black",
+        "descripcion": "Cámara de acción con grabación de video en 5K y estabilización HyperSmooth 3.0.",
+        "precio": 449.99,
+        "valoracion": 4.9,
+        "imagenes": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9C11-A3yip_9d18xxDRFtyu70OpPCSfZIRlA3DWhaiw&s",
+        "stock": 10
+      },
+      {
+        "id": 21,
+        "idCategory": 1,
+        "nombre": "Nintendo Switch OLED Model",
+        "descripcion": "Consola de videojuegos con pantalla OLED de 7 pulgadas y hasta 9 horas de duración de la batería.",
+        "precio": 349.99,
+        "valoracion": 4.7,
+        "imagenes": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/products/hardware/nintendo-switch-oled-model-white-set/115461-switch-oled-white-boxart-1200x675",
+        "stock": 30
+      },
+      {
+        "id": 22,
+        "idCategory": 1,
+        "nombre": "Bose QuietComfort Earbuds",
+        "descripcion": "Auriculares inalámbricos con cancelación de ruido ajustable y hasta 6 horas de autonomía con una sola carga.",
+        "precio": 279.99,
+        "valoracion": 4.8,
+        "imagenes": "https://promart.vteximg.com.br/arquivos/ids/7740027-1000-1000/image-4b17fd840c9843b49420f3488b65a5ca.jpg?v=638388056021070000",
+        "stock": 25
+      },
+      {
+        "id": 23,
+        "idCategory": 1,
+        "nombre": "Samsung Odyssey G9",
+        "descripcion": "Monitor curvo ultrapanorámico de 49 pulgadas con resolución 5120x1440 y frecuencia de actualización de 240Hz.",
+        "precio": 1499.99,
+        "valoracion": 4.9,
+        "imagenes": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_123108879_3562665_1?wid=800&hei=800&qlt=70",
+        "stock": 20
+      },
+      {
+        "id": 24,
+        "idCategory": 1,
+        "nombre": "DJI Mavic Air 2",
+        "descripcion": "Drone con cámara 4K de 48MP, autonomía de hasta 34 minutos y detección de obstáculos en tres direcciones.",
+        "precio": 799.99,
+        "valoracion": 4.6,
+        "imagenes": "https://www.audiovision.com.pe/wp-content/uploads/2021/07/112DJI-Mavic-Air-2-Fly-More-Combo-2.jpg",
+        "stock": 15
+      },
+      {
+        "id": 25,
+        "idCategory": 1,
+        "nombre": "Garmin Forerunner 945",
+        "descripcion": "Reloj deportivo con GPS, monitoreo de la frecuencia cardíaca y funciones avanzadas de entrenamiento.",
+        "precio": 599.99,
+        "valoracion": 4.7,
+        "imagenes": "https://garmin.com.pe/wp-content/uploads/2020/01/FR-945-NEGRO-16-600x653.png",
+        "stock": 10
+      },
+      {
+        "id": 26,
+        "idCategory": 1,
+        "nombre": "Apple Watch Series 7",
+        "descripcion": "Reloj inteligente con pantalla siempre encendida, seguimiento avanzado de la actividad y detección de caídas.",
+        "precio": 399.99,
+        "valoracion": 4.8,
+        "imagenes": "https://mac-center.com.pe/cdn/shop/products/IMG-6339002.jpg?v=1660912660",
+        "stock": 30
+      },
+      {
+        "id": 27,
+        "idCategory": 1,
+        "nombre": "Sony Alpha 7 IV",
+        "descripcion": "Cámara sin espejo de fotograma completo con sensor CMOS Exmor R de 33 megapíxeles y grabación de video 4K.",
+        "precio": 2499.99,
+        "valoracion": 4.9,
+        "imagenes": "https://amateurphotographer.com/wp-content/uploads/sites/7/2021/10/Sony-A7-IV-01-PA191048-acr.jpg?w=900",
+        "stock": 25
+      },
+      {
+        "id": 28,
+        "idCategory": 1,
+        "nombre": "Logitech MX Master 3",
+        "descripcion": "Ratón inalámbrico avanzado con seguimiento de alta precisión y botón de rueda electromagnética MagSpeed.",
+        "precio": 99.99,
+        "valoracion": 4.7,
+        "imagenes": "https://kingstoreperu.com/wp-content/uploads/2023/01/MX-MASTER-MX-5.jpg",
+        "stock": 20
+      },
+      {
+        "id": 29,
+        "idCategory": 1,
+        "nombre": "Razer BlackWidow V3",
+        "descripcion": "Teclado mecánico para juegos con interruptores Razer Green, iluminación RGB personalizable y reposamuñecas ergonómico.",
+        "precio": 139.99,
+        "valoracion": 4.8,
+        "imagenes": "https://www.infotec.com.pe/78800-large_default/teclado-gaming-razer-blackwidow-v3-mecanico-rz03-03541900-r3m1-chroma-rgb-switch-yellow-black.jpg",
+        "stock": 15
+      },
+      {
+        "id": 30,
+        "idCategory": 1,
+        "nombre": "Samsung Galaxy Tab S7+",
+        "descripcion": "Tableta Android con pantalla Super AMOLED de 12.4 pulgadas, S Pen incluido y batería de larga duración.",
+        "precio": 849.99,
+        "valoracion": 4.6,
+        "imagenes": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSjgiDGoCvHIF1bEJvn-oGMagNDHg95qqdPCC5CIcY3A&s",
+        "stock": 10
+      },
+      {
+        "id": 31,
+        "idCategory": 1,
+        "nombre": "Bose SoundLink Revolve+",
+        "descripcion": "Altavoz Bluetooth portátil con sonido de 360 grados, resistencia al agua y batería de hasta 16 horas de reproducción.",
+        "precio": 299.99,
+        "valoracion": 4.7,
+        "imagenes": "https://tiendasishop.com/media/catalog/product/6/1/6192xrjg_dl._ac_sx679_.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+        "stock": 30
+      },
+      {
+        "id": 32,
+        "idCategory": 1,
+        "nombre": "Sony PlayStation 3",
+        "descripcion": "Consola de videojuegos de próxima generación con gráficos de alta fidelidad, almacenamiento SSD ultrarrápido y controlador DualSense.",
+        "precio": 499.99,
+        "valoracion": 4.9,
+        "imagenes": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sony-PlayStation-3-2001A-wController-L.jpg/640px-Sony-PlayStation-3-2001A-wController-L.jpg",
+        "stock": 25
+      },
+      {
+        "id": 33,
+        "idCategory": 1,
+        "nombre": "Microsoft Surface Laptop 4",
+        "descripcion": "Portátil ultradelgado con pantalla táctil PixelSense de 13.5 pulgadas, procesador Intel Core de 11ª generación y hasta 19 horas de duración de la batería.",
+        "precio": 999.99,
+        "valoracion": 4.8,
+        "imagenes": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoESXLd_kCK3b7YhC42qsKAkZxuv2Ud4E1H-Tz-7qcvg&s",
+        "stock": 20
+      },
+      {
+        "id": 34,
+        "idCategory": 1,
+        "nombre": "Canon EOS R2",
+        "descripcion": "Cámara sin espejo de fotograma completo con resolución de 45 megapíxeles, grabación de video 8K y estabilización de imagen de 5 ejes.",
+        "precio": 3899.99,
+        "valoracion": 4.9,
+        "imagenes": "https://www.flashpointlighting.com/wp-content/uploads/2021/02/fprrr2tcii_9-600x600.jpg",
+        "stock": 15
+      },
+      {
+        "id": 35,
+        "idCategory": 1,
+        "nombre": "Apple iPad Pro",
+        "descripcion": "Tableta con pantalla Liquid Retina XDR de 12.9 pulgadas, procesador M1 y compatibilidad con el Apple Pencil de segunda generación.",
+        "precio": 1099.99,
+        "valoracion": 4.8,
+        "imagenes": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-unselect-gallery-2-202212_FMT_WHH?wid=1280&hei=720&fmt=p-jpg&qlt=95&.v=1667594383218",
+        "stock": 10
+      },
+      {
+        "id": 36,
+        "idCategory": 1,
+        "nombre": "LG OLED C1",
+        "descripcion": "Televisor OLED de 65 pulgadas con resolución 4K, Dolby Vision IQ y sonido Dolby Atmos.",
+        "precio": 1999.99,
+        "valoracion": 4.8,
+        "imagenes": "https://www.lg.com/au/images/tvs/md07517530/gallery/D-1.jpg",
+        "stock": 30
+      },
+      {
+        "id": 37,
+        "idCategory": 1,
+        "nombre": "GoPro HERO10 Black",
+        "descripcion": "Cámara de acción con grabación de video 5.3K, estabilización HyperSmooth 4.0 y transmisión en directo.",
+        "precio": 499.99,
+        "valoracion": 4.9,
+        "imagenes": "https://www.fotoperudigital.com/wp-content/uploads/2021/10/hero-10-black-negro.jpg",
+        "stock": 25
+      },
+      {
+        "id": 38,
+        "idCategory": 1,
+        "nombre": "Nintendo Switch Pro Controller",
+        "descripcion": "Controlador inalámbrico para Nintendo Switch con diseño ergonómico y batería de larga duración.",
+        "precio": 69.99,
+        "valoracion": 4.7,
+        "imagenes": "https://coolboxpe.vtexassets.com/arquivos/ids/243543-800-450?v=638071652971070000&width=800&height=450&aspect=true",
+        "stock": 20
+      },
+      {
+        "id": 39,
+        "idCategory": 1,
+        "nombre": "Bose Frames Alto",
+        "descripcion": "Gafas de sol con altavoces integrados para disfrutar de música y llamadas manos libres.",
+        "precio": 199.99,
+        "valoracion": 4.6,
+        "imagenes": "https://di2ponv0v5otw.cloudfront.net/posts/2022/12/03/638b9476308f0720c3559614/m_638b949f8bb2e2138f68262a.jpg",
+        "stock": 15
+      },
+      {
+        "id": 40,
+        "idCategory": 1,
+        "nombre": "Sony WH-CH720N/LZ",
+        "descripcion": "Auriculares inalámbricos con cancelación de ruido líder en la industria y hasta 30 horas de reproducción.",
+        "precio": 349.99,
+        "valoracion": 4.8,
+        "imagenes": "https://oechsle.vteximg.com.br/arquivos/ids/15576240-1000-1000/2423006_1.jpg?v=638279233420570000 ",
+        "stock": 10
+      }
+    ]
+  }
+  

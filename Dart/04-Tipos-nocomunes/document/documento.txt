@@ -1,0 +1,7 @@
+1.-Padre
+2.-Madre
+3.-Hijo
+4.-Hija
+5.-Abuelo
+6.-Abuela
+7.-Tíos
